@@ -1,0 +1,3 @@
+Item ID,Access Path,Data Type,Active
+Channel2.Device1.Tag1,"",Float,TRUE
+Channel2.Device1.OnlineState,"",String,TRUE
